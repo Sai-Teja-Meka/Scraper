@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Playwright / Scraper
+user_data/
+artifacts/
+debug_*.html
+*.log
+
+# Output Data
+data/
+*.json
+*.csv
+*.pdf
